@@ -1,0 +1,47 @@
+seed_id,section,body,id
+1,Languages influenced by Python,"Python's design and philosophy have influenced many other programming languages:
+
+Boo uses indentation, a similar syntax, and a similar object model.
+Cobra uses indentation and a similar syntax; its Acknowledgements document lists Python first among influencing languages.
+CoffeeScript, a programming language that cross-compiles to JavaScript, has a Python-inspired syntax.
+ECMAScript–JavaScript borrowed iterators and generators from Python.
+GDScript, a Python-like scripting language that is built in to the Godot game engine.
+Go is designed for ""speed of working in a dynamic language like Python""; Go shares Python's syntax for slicing arrays.
+Groovy was motivated by a desire to incorporate the Python design philosophy into Java.
+Julia was designed to be ""as usable for general programming as Python"".
+Mojo is a non-strict superset of Python (e.g., omitting classes, and adding struct).
+Nim uses indentation and a similar syntax.
+Ruby's creator, Yukihiro Matsumoto, said that ""I wanted a scripting language that was more powerful than Perl, and more object-oriented than Python. That's why I decided to design my own language.""
+Swift, a programming language developed by Apple, has some Python-inspired syntax.
+Kotlin blends Python and Java features, which minimizes boilerplate code and enhances developer efficiency.
+Python's development practices have also been emulated by other languages. For example, Python requires a document that describes the rationale and context for any language change; this document is known as a Python Enhancement Proposal or PEP. This practice is also used by the developers of Tcl, Erlang, and Swift.",1
+1,Types of Use,"Python has many uses, including the following:
+
+Scripting for web applications
+Scientific computing
+Artificial-intelligence and machine-learning projects
+Graphical user interfaces and desktop environments
+Embedded scripting in software and hardware products
+Operating systems
+Information security
+Python can serve as a scripting language for web applications, e.g., via the mod_wsgi module for the Apache web server. With Web Server Gateway Interface, a standard API has evolved to facilitate these applications. Web frameworks such as Django, Pylons, Pyramid, TurboGears, web2py, Tornado, Flask, Bottle, and Zope support developers in the design and maintenance of complex applications. Pyjs and IronPython can be used to develop the client-side of Ajax-based applications. SQLAlchemy can be used as a data mapper to a relational database. Twisted is a framework to program communication between computers; this framework is used by Dropbox, for example.
+Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python in scientific computing, with specialized libraries such as Biopython and Astropy providing domain-specific functionality. SageMath is a computer algebra system with a notebook interface that is programmable in Python; the SageMath library covers many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. OpenCV has Python bindings with a rich set of features for computer vision and image processing.
+Python is commonly used in artificial-intelligence and machine-learning projects, with support from libraries such as TensorFlow, Keras, Pytorch, scikit-learn and ProbLog (a logic language). As a scripting language with a modular architecture, simple syntax, and rich text processing tools, Python is often used for natural language processing.
+The combination of Python and Prolog has proven useful for AI applications, with Prolog providing knowledge representation and reasoning capabilities. The Janus system, in particular, exploits similarities between these two languages, in part because of their dynamic typing and their simple, recursive data structures. This combination is typically applied natural language processing, visual query answering, geospatial reasoning, and handling semantic web data.
+The Natlog system, implemented in Python, uses Definite Clause Grammars (DCGs) to create prompts for two types of generators: text-to-text generators such as GPT3, and text-to-image generators such as DALL-E or Stable Diffusion.
+Python can be used for graphical user interfaces (GUIs), by using libraries such as Tkinter. Similarly, for the One Laptop per Child XO computer, most of the Sugar desktop environment is written in Python (as of 2008).
+Python is embedded in many software products (and some hardware products) as a scripting language. These products include the following: 
+
+finite element method software such as Abaqus,
+3D parametric modelers such as FreeCAD,
+3D animation packages such as 3ds Max, Blender, Cinema 4D, Lightwave, Houdini, Maya, modo, MotionBuilder, Softimage,
+the visual effects compositor Nuke,
+2D imaging programs such as GIMP, Inkscape, Scribus and Paint Shop Pro, and
+musical notation programs such as scorewriter and capella.
+Similarly, GNU Debugger uses Python as a pretty printer to show complex structures such as C++ containers. Esri promotes Python as the best choice for writing scripts in ArcGIS. Python has also been used in several video games, and it has been adopted as first of the three programming languages available in Google App Engine (the other two being Java and Go). LibreOffice includes Python, and its developers plan to replace Java with Python; LibreOffice's Python Scripting Provider is a core feature since version 4.0 (from 7 February 2013). 
+Among hardware products, the Raspberry Pi single-board computer project has adopted Python as its main user-programming language.
+Many operating systems include Python as a standard component. Python ships with most Linux distributions, AmigaOS 4 (using Python 2.7), FreeBSD (as a package), NetBSD, and OpenBSD (as a package); it can be used from the command line (terminal). Many Linux distributions use installers written in Python: Ubuntu uses the Ubiquity installer, while Red Hat Linux and Fedora Linux use the Anaconda installer. Gentoo Linux uses Python in its package management system, Portage.
+Python is used extensively in the information security industry, including in exploit development.",2
+1,Popularity,"Since 2003, Python has consistently ranked in the top ten of the most popular programming languages in the TIOBE Programming Community Index; as of December 2022, Python was the most popular language. Python was selected as Programming Language of the Year (for ""the highest rise in ratings in a year"") in 2007, 2010, 2018, and 2020—the only language to have done so four times as of 2020). In the TIOBE Index, monthly rankings are based on the volume of searches for programming languages on Google, Amazon, Wikipedia, Bing, and 20 other platforms. According to the accompanying graph, Python has shown a marked upward trend since the early 2000s, eventually passing more established languages such as C, C++, and Java. This trend can be attributed to Python's readable syntax, comprehensive standard library, and application in data science and machine learning fields.
+
+Large organizations that use Python include Wikipedia, Google, Yahoo!, CERN, NASA, Facebook, Amazon, Instagram, Spotify, and some smaller entities such as Industrial Light & Magic and ITA. The social news networking site Reddit was developed mostly in Python. Organizations that partly use Python include Discord and Baidu.",3
